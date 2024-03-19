@@ -44,7 +44,7 @@ def train(FLAGS):
     print ('[INFO]Defined the loss function and the optimizer')
 
     # Training Loop starts
-    print ('[INFO]Staring Training...')
+    print ('[INFO]Starting Training...')
     print ()
 
     train_losses = []
